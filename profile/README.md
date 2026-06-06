@@ -29,9 +29,9 @@ We maintain official SDKs for all major programming languages. Choose yours and 
 
 ## ✨ What makes VerifiedSMS different?
 
-> *[Replace this section with your actual product features. Here's a template you can adapt:]*
+> *[Only Support Sending SMS in Nepal. Organization Presence in Nepal is required to use VerifiedSMS services.]*
 
-- ✅ **Global reach** – Send SMS to 200+ countries
+- ✅ **Global reach** – Send SMS to all Telcos in Nepal
 - ✅ **High deliverability** – Direct carrier connections
 - ✅ **Simple API** – RESTful endpoints with clear documentation
 - ✅ **Webhook support** – Real-time delivery receipts and replies
